@@ -1,16 +1,18 @@
-## Hi there 👋
+# Sup!
+<p align="center">
+  <img src="https://wallpapers.com/images/featured/cute-cartoon-animal-hc9b11naxls777iw.jpg" height="300" width="300" alt="Animal Picture">
+</p>
 
-<!--
-**vaibhavsingh6952/vaibhavsingh6952** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me  
+Hi, I'm **Vaibhav**, a tech enthusiast.  
 
-Here are some ideas to get you started:
+# Projects 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<body>
+  <p>
+    <h3><a href="https://github.com/vaibhavsingh6952/DCGAN_Fashion_MNIST">DCGAN Model using Fashion MNIST</a></h3>
+    <h3><a href="https://github.com/vaibhavsingh6952/speech_emotion_recog">Speech Emotion Recognition Model using librosa</a></h3>
+    <h3><a href="https://github.com/vaibhavsingh6952/customer_churn">Credit Card Customer Churn Model</a></h3>
+    <h3><a href="https://github.com/vaibhavsingh6952/image-modifier">A Fun Image Modifier using Stable Diffusion Model and ControlNet</a></h3>
+  </p>
+</body>
