@@ -1,10 +1,5 @@
 # Sup!
-<p align="center">
-  <img src="https://wallpapers.com/images/featured/cute-cartoon-animal-hc9b11naxls777iw.jpg" height="300" width="300" alt="Animal Picture">
-</p>
-
-# About Me  
-Hi, I'm **Vaibhav**, a tech enthusiast.
+I'm Vaibhav, a learner, love doing new stuffs!
 
 # Projects 
 <body>
@@ -14,5 +9,6 @@ Hi, I'm **Vaibhav**, a tech enthusiast.
     <h3><a href="https://github.com/vaibhavsingh6952/customer_churn">Credit Card Customer Churn Model</a></h3>
     <h3><a href="https://github.com/vaibhavsingh6952/image-modifier">A Fun Image Modifier using Stable Diffusion Model and ControlNet</a></h3>
     <h3>Do check out my Blog  <a href="http://perspectine.com/">Perspectine</a> too :))</h3>
+    Creating things rn.
   </p>
 </body>
