@@ -1,5 +1,5 @@
 # Sup!
-<h3>i'm vaibhav, a learner, love doing new stuffs! 😄</h3>
+<h3>i'm vaibhav, a learner, love doing new stuffs! 😄💻🔭</h3>
 
 # Projects 
 <body>
