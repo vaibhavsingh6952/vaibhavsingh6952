@@ -1,5 +1,5 @@
 # Sup!
-<h3>i'm vaibhav, love doing new stuffs!! 😄💻🔭</h3>
+<h3>i'm vaibhav, love doing new stuff (?)</h3>
 
 # Projects 
 <body>
