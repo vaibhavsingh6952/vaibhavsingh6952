@@ -11,7 +11,6 @@
     <h3><a href="https://github.com/vaibhavsingh6952/image-modifier">A Fun Image Modifier using Stable Diffusion Model and ControlNet</a></h3>
     <h3>Do check out my blog  <a href="http://perspectine.com/">Perspectine</a> too :))</h3>
     <h3>creating things rn</h3>
-
-    [![trophy](https://github-profile-trophy.vercel.app/?username=vaibhavsingh6952&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   </p>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=vaibhavsingh6952&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </body>
