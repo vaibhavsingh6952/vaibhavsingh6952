@@ -12,5 +12,5 @@
     <h3>Do check out my blog  <a href="http://perspectine.com/">Perspectine</a> too :))</h3>
     <h3>creating things rn</h3>
   </p>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=vaibhavsingh6952&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </body>
+[![trophy](https://github-profile-trophy.vercel.app/?username=vaibhavsingh6952&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
